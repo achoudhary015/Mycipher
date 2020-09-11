@@ -1,5 +1,5 @@
 .data
-    testKey: .word 1, 2, 3, 4		#testing peropose 
+    testKey: .word 1, 2, 3, 4		
     orderedKey: .word 0, 0, 0, 0
     reverseOrderedKey: .word 0, 0, 0, 0
     plainText: .space 1000
